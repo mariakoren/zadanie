@@ -49,3 +49,6 @@ print(3)
 to kod programu bedzie: `print('kod')` a to nie
 
 
+![moj obraz](obrazek.png "obraz")
+
+
