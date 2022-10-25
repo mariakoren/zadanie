@@ -15,7 +15,7 @@ tu jest przekreslenia: ~~przekreslenie~~
 
 Zagniezdzona lista numeryczna:
 1. pierwszy tekst
-	1.piersze zagniezdzenie pierwszego teksta
+	1. piersze zagniezdzenie pierwszego teksta
 	2. drugie zagniezdzenie pierwszego teksta
 2. drugi tekst
 	1. pierwsze zagniezdzenie drugiego teksta
