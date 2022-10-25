@@ -7,7 +7,9 @@ paragraf dwa
 paragraf trzy 
 
 tu jest kursywa: *kursywa*
+
 tu jest pogrubienie: **pogrobienie**
+
 tu jest przekreslenia: ~~przekreslenie~~
 
 >Tu jest cytat
@@ -35,8 +37,6 @@ Zagniezdzona lista nienumeryczna
         - jhglk
 - hgjkhgf
 - ghgf
-        - yufdlh
-        - hfkuy
 
 
 fragment kodu:
